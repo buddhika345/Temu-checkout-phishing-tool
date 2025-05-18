@@ -1,4 +1,9 @@
-static
-templates
-venv
-app.py
+ ***** File Structure *****
+
+project/
+├── app.py
+├── templates/
+│   └── index.html
+├── static/
+│   └── style.css
+└── README.md
